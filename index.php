@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+    </script>
+    <meta charset="utf-8" />
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
+    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>欢迎来到CC的资料库~CC</title>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+    <!--     Fonts and icons     -->
+    <!--link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" /-->
+    <!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" /-->
+    <!-- CSS Files -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="assets/css/now-ui-kit.css?v=1.1.0" rel="stylesheet" />
+    <!-- CSS Just for demo purpose, don't include it in your project -->
+    <link href="assets/css/demo.css" rel="stylesheet" />
+    <!-- Canonical SEO -->
+    <link rel="canonical" href="" />
+    <!--  Social tags      -->
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    
+    
+    
+</head>
+
+<body class="profile-page sidebar-collapse">
+    <!-- Navbar -->
+<nav class="navbar navbar-expand-lg bg-primary fixed-top navbar-transparent " color-on-scroll="400">
+        <div class="container">
+          <div class="navbar-translate"><a class="navbar-brand" href="#" rel="tooltip" title="" data-placement="bottom">CC的资料库</a></div>
+  </div>
+</nav>
+    <!-- End Navbar -->
+    <div class="wrapper">
+        <div class="page-header page-header-small" filter-color="orange">
+            <div class="page-header-image" data-parallax="true" style="background-image: url('assets/img/bg5.jpg');">
+            </div>
+            <div class="container">
+                <div class="content-center">
+                    <div class="photo-container">
+                        <img src="assets/img/ryan.jpg" alt="">
+                    </div>
+                    <h3 class="title">A~CC</h3>
+                    <p class="category">微信号： long84621 长按可复制 </p>
+                    <div class="content">
+                        <div class="social-description">
+                            <h2>26+种</h2>
+                            <p>考证资料</p>
+                        </div>
+                        <div class="social-description">
+                            <h2>27+种</h2>
+                            <p>考研资料</p>
+                        </div>
+                        <div class="social-description">
+                            <h2>4+种</h2>
+                            <p>影视会员</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="tlinks">Collect from <a href="http://www.cssmoban.com/" >网站建设</a></div>
+        <div class="section">
+            <div class="container">
+                <div class="button-container" id="buttons">
+                    <a href="#button" class="btn btn-primary btn-round btn-lg">ABOUT ME</a>                </div>
+                <h3 class="title"><span class="category">微信号： long84621 长按可复制</span></h3>
+                <h5 class="description">各位小可爱们~CC等你们好久啦。这里有CFA、CPA、CMA、ACCA、FRM、四六级网课，还有考研网课资料书籍、影视会员等等等~可以复制微信号找到我呢~祝各位小可爱们顺利上岸哦~</h5>
+                <div class="row">
+                    <div class="col-md-6 ml-auto mr-auto">
+                        <h4 class="title text-center">资料截图</h4>
+                        <div class="nav-align-center">
+                            <ul class="nav nav-pills nav-pills-primary" role="tablist">
+                                <li class="nav-item">
+                                    <a class="nav-link" data-toggle="tab" href="#profile" role="tablist">
+                                        <i class="now-ui-icons design_image"></i>
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link active" data-toggle="tab" href="#home" role="tablist">
+                                        <i class="now-ui-icons location_world"></i>
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" data-toggle="tab" href="#messages" role="tablist">
+                                        <i class="now-ui-icons sport_user-run"></i>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- Tab panes -->
+                    <div class="tab-content gallery">
+                        <div class="tab-pane active" id="home" role="tabpanel">
+                            <div class="col-md-10 ml-auto mr-auto">
+                                <div class="row collections">
+                                    <div class="col-md-6">
+                                        <img src="assets/img/bg1.jpg" alt="" class="img-raised">
+                                        <img src="assets/img/bg3.jpg" alt="" class="img-raised">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <img src="assets/img/bg8.jpg" alt="" class="img-raised">
+                                        <img src="assets/img/bg7.jpg" alt="" class="img-raised">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="profile" role="tabpanel">
+                            <div class="col-md-10 ml-auto mr-auto">
+                                <div class="row collections">
+                                    <div class="col-md-6">
+                                        <img src="assets/img/bg6.jpg" class="img-raised">
+                                        <img src="assets/img/bg11.jpg" alt="" class="img-raised">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <img src="assets/img/bg7.jpg" alt="" class="img-raised">
+                                        <img src="assets/img/bg8.jpg" alt="" class="img-raised">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="messages" role="tabpanel">
+                            <div class="col-md-10 ml-auto mr-auto">
+                                <div class="row collections">
+                                    <div class="col-md-6">
+                                        <img src="assets/img/bg3.jpg" alt="" class="img-raised">
+                                        <img src="assets/img/bg8.jpg" alt="" class="img-raised">
+                                    </div>
+                                    <div class="col-md-6">
+                                        <img src="assets/img/bg7.jpg" alt="" class="img-raised">
+                                        <img src="assets/img/bg6.jpg" class="img-raised">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer class="footer footer-default">
+            <div class="container">
+                <nav>
+                    <ul>
+                        <li>
+                            <a href="#">
+                                CC资料库 long84621                            </a>                        </li>
+                        <li>
+                            <a href="#">CC资料库 long84621 </a>                        </li>
+                        <li>
+                            <a href="#">CC资料库 long84621 </a>                        </li>
+                        <li>
+                            <a href="http://longwin.ga/w2048/width8/index.html">玩一下强大版的2048！ </a>                        </li>
+                        <li>
+                            <a href="#"><span  id="pv" style="display: none!important"><span id="busuanzi_value_site_pv"></span>--<span id="busuanzi_value_site_uv"></span>--<span id="busuanzi_value_page_pv"></span></span></a>   
+                    </ul>
+                </nav>
+                <div class="copyright"></div>
+          </div>
+        </footer>
+    </div>
+</body>
+<!--   Core JS Files   -->
+<script src="assets/js/core/jquery.3.2.1.min.js" type="text/javascript"></script>
+<script src="assets/js/core/popper.min.js" type="text/javascript"></script>
+<script src="assets/js/core/bootstrap.min.js" type="text/javascript"></script>
+<!--  Plugin for Switches, full documentation here: http://www.jque.re/plugins/version3/bootstrap.switch/ -->
+<script src="assets/js/plugins/bootstrap-switch.js"></script>
+<!--  Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
+<script src="assets/js/plugins/nouislider.min.js" type="text/javascript"></script>
+<!--  Plugin for the DatePicker, full documentation here: https://github.com/uxsolutions/bootstrap-datepicker -->
+<script src="assets/js/plugins/bootstrap-datepicker.js" type="text/javascript"></script>
+<!-- Share Library etc -->
+<script src="assets/js/plugins/jquery.sharrre.js" type="text/javascript"></script>
+<!-- Control Center for Now Ui Kit: parallax effects, scripts for the example pages etc -->
+<script src="assets/js/now-ui-kit.js?v=1.1.0" type="text/javascript"></script>
+
+</html>
